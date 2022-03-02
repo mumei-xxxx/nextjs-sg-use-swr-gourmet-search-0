@@ -5,6 +5,14 @@
 Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）
 https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search
 
+アプリを実際に動作させる場合は、
+
+- ホットペッパーAPIのAPIキーを取得する
+- `.env` ファイルの用意して、設定
+
+の必要があります。
+詳細は上記記事をご拝読いただければ幸いです。
+
 ----
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
