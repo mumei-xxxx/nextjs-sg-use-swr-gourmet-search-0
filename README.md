@@ -2,6 +2,9 @@
 
 以下の記事で解説しております。
 
+Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）
+https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search
+
 ----
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
